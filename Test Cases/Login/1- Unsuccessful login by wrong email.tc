@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1- Unsuccessful login by wrong email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1ce5127-a313-4762-839e-0553b861b011</testCaseGuid>
+</TestCaseEntity>

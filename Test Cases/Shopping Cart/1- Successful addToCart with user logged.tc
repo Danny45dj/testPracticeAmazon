@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1- Successful addToCart with user logged</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b29a6a1a-e69d-4349-8f70-fb32f5f9151d</testCaseGuid>
+</TestCaseEntity>
