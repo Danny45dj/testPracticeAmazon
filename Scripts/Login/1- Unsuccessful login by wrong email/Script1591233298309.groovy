@@ -35,4 +35,3 @@ WebUI.verifyElementPresent(findTestObject('Login Portal/warning'), 30)
 WebUI.verifyElementText(findTestObject('Login Portal/messageWrongEmail'), GlobalVariable.messageWrongEmail)
 
 WebUI.closeBrowser()
-

@@ -5,68 +5,63 @@
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
-      <description></description>
+      <description>This is URL about Test APP for practice</description>
       <initValue>'https://www.amazon.com/'</initValue>
       <name>Url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>Email for practice in this project</description>
       <initValue>'testkatalon62@gmail.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>Password for practice in this project</description>
       <initValue>'@Test123456789'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>this folder lable at gmail</description>
       <initValue>'INBOX'</initValue>
       <name>folderLableName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>Email Fake for simulate unsuccess test</description>
       <initValue>'emaiFake@fake.com'</initValue>
       <name>emailFake</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>Password Fake for simulate unsuccess test</description>
       <initValue>'passwordFake'</initValue>
       <name>passwordFake</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>This message is displayed when is email incorrect</description>
       <initValue>'We cannot find an account with that email address'</initValue>
       <name>messageWrongEmail</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>This message is displayed when is password incorrect</description>
       <initValue>'Your password is incorrect'</initValue>
       <name>messageWrongPassword</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>This is a warning when input email is blank</description>
       <initValue>'Enter your email or mobile phone number'</initValue>
       <name>messageBlankEmail</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>This is a warning when input password is blank</description>
       <initValue>'Enter your password'</initValue>
       <name>messageBlankPass</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>This is the value inserted at input search</description>
       <initValue>'PS4'</initValue>
       <name>searchValueAmazon</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>This is message is displayed when is success add item to cart</description>
       <initValue>'Added to Cart'</initValue>
       <name>messageValidationForAddToCart</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'was removed from Shopping Cart'</initValue>
-      <name>messageRemoveItem</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
